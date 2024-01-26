@@ -1,0 +1,10 @@
+
+.hero-section{
+        background-image: url(Sunsational_Desktop_Hero-BG.jpg);
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+.h2{
+    text-decoration-color: rgb(165, 42, 79);
+}
